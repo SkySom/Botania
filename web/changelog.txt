@@ -1,4 +1,4 @@
-*fiddlin with things
+*fiddlin with thi
 r1.10 352
 *<b>Another big round of fixes provided by williewillus</b>
 *Fixed a division by zero crash when entering some entries with bad recipes.
